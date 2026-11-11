@@ -1,0 +1,20 @@
+{
+  "name": "Giải Pháp Văn Phòng Thông Minh VPS - Báo Cáo 4 Bước",
+  "short_name": "VPS 4 Bước",
+  "description": "Ứng dụng báo cáo công việc hàng ngày & quản trị kế hoạch 4 bước của Văn phòng VPS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
+
